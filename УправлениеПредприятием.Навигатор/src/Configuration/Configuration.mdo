@@ -49,6 +49,7 @@
   </languages>
   <commonModules>CommonModule.НВ_ОбщегоНазначения</commonModules>
   <commonModules>CommonModule.НВ_ОбщегоНазначенияКлиентСервер</commonModules>
+  <commonModules>CommonModule.НВ_ОбщегоНазначенияСервер</commonModules>
   <commonModules>CommonModule.НВ_СтроковыеФункцииКлиентСервер</commonModules>
   <dataProcessors>DataProcessor.НВ_Навигатор</dataProcessors>
 </mdclass:Configuration>
