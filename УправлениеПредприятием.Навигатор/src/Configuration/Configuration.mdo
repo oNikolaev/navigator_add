@@ -47,5 +47,5 @@
     </extension>
     <languageCode>ru</languageCode>
   </languages>
-  <dataProcessors>DataProcessor.Навигатор</dataProcessors>
+  <dataProcessors>DataProcessor.НВ_Навигатор</dataProcessors>
 </mdclass:Configuration>
