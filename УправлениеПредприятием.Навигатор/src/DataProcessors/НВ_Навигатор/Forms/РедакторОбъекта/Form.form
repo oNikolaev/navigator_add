@@ -13254,27 +13254,6 @@
     <currentRowUse>DontUse</currentRowUse>
   </formCommands>
   <formCommands>
-    <name>КомандаОтобразитьXML</name>
-    <title>
-      <key>ru</key>
-      <value>XML</value>
-    </title>
-    <id>2</id>
-    <toolTip>
-      <key>ru</key>
-      <value>Отобразить данные объекта в виде XML</value>
-    </toolTip>
-    <use>
-      <common>true</common>
-    </use>
-    <action xsi:type="form:FormCommandHandlerContainer">
-      <handler>
-        <name>КомандаОтобразитьXML</name>
-      </handler>
-    </action>
-    <currentRowUse>DontUse</currentRowUse>
-  </formCommands>
-  <formCommands>
     <name>КомандаУдалитьОбъект</name>
     <title>
       <key>ru</key>

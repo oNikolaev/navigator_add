@@ -627,6 +627,50 @@
       <commandSource>Form</commandSource>
     </extInfo>
   </items>
+  <items xsi:type="form:FormField">
+    <name>ОчищатьОкноСообщений</name>
+    <id>154</id>
+    <visible>true</visible>
+    <enabled>true</enabled>
+    <userVisible>
+      <common>true</common>
+    </userVisible>
+    <dataPath xsi:type="form:DataPath">
+      <segments>ОчищатьОкноСообщений</segments>
+    </dataPath>
+    <titleLocation>Right</titleLocation>
+    <extendedTooltip>
+      <name>ОчищатьОкноСообщенийРасширеннаяПодсказка</name>
+      <id>156</id>
+      <visible>true</visible>
+      <enabled>true</enabled>
+      <userVisible>
+        <common>true</common>
+      </userVisible>
+      <type>Label</type>
+      <autoMaxWidth>true</autoMaxWidth>
+      <autoMaxHeight>true</autoMaxHeight>
+      <extInfo xsi:type="form:LabelDecorationExtInfo">
+        <horizontalAlign>Left</horizontalAlign>
+      </extInfo>
+    </extendedTooltip>
+    <contextMenu>
+      <name>ОчищатьОкноСообщенийКонтекстноеМеню</name>
+      <id>155</id>
+      <visible>true</visible>
+      <enabled>true</enabled>
+      <userVisible>
+        <common>true</common>
+      </userVisible>
+      <autoFill>true</autoFill>
+    </contextMenu>
+    <type>CheckBoxField</type>
+    <editMode>Enter</editMode>
+    <showInHeader>true</showInHeader>
+    <headerHorizontalAlign>Left</headerHorizontalAlign>
+    <showInFooter>true</showInFooter>
+    <extInfo xsi:type="form:CheckBoxFieldExtInfo"/>
+  </items>
   <items xsi:type="form:FormGroup">
     <name>КоманднаяПанельБыстрые</name>
     <id>134</id>
@@ -953,6 +997,7 @@
   </handlers>
   <excludedCommands>CustomizeForm</excludedCommands>
   <excludedCommands>Help</excludedCommands>
+  <autoSaveDataInSettings>Use</autoSaveDataInSettings>
   <autoUrl>true</autoUrl>
   <group>Vertical</group>
   <autoFillCheck>true</autoFillCheck>
@@ -1170,6 +1215,26 @@
     <edit>
       <common>true</common>
     </edit>
+  </attributes>
+  <attributes>
+    <name>ОчищатьОкноСообщений</name>
+    <title>
+      <key>ru</key>
+      <value>Очищать окно сообщений</value>
+    </title>
+    <id>9</id>
+    <valueType>
+      <types>Boolean</types>
+    </valueType>
+    <view>
+      <common>true</common>
+    </view>
+    <edit>
+      <common>true</common>
+    </edit>
+    <settingsSavedData xsi:type="form:DataPath">
+      <segments>ОчищатьОкноСообщений</segments>
+    </settingsSavedData>
   </attributes>
   <formCommands>
     <name>КомандаИсполняемыйКодВыполнитьНаКлиенте</name>
