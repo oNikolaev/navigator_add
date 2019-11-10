@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="457d20b5-7429-4c27-851d-5f36e7b761d4">
+  <producedTypes>
+    <objectType typeId="33fe3e28-3004-49dc-9e56-79451371dfd2" valueTypeId="a3c82201-d89f-40aa-a50e-a544d0f0c7ec"/>
+    <managerType typeId="336f5e38-5767-4f12-82d2-cf202ab51411" valueTypeId="ac3b71f6-bc87-409d-b737-691899e5037c"/>
+  </producedTypes>
+  <name>НВ_ЖурналРегистрации</name>
+  <synonym>
+    <key>ru</key>
+    <value>НВ:Журнал регистрации</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.НВ_ЖурналРегистрации.Form.ЖурналРегистрации</defaultForm>
+  <forms uuid="fdb15602-2a01-40a7-8832-1be63c96da45">
+    <name>ЖурналРегистрации</name>
+    <synonym>
+      <key>ru</key>
+      <value>Журнал регистрации</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>

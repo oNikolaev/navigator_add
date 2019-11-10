@@ -3,7 +3,7 @@
   <name>НВ_ОбщегоНазначенияСервер</name>
   <synonym>
     <key>ru</key>
-    <value>Общего назначения, сервер</value>
+    <value>НВ:Общего назначения, сервер</value>
   </synonym>
   <server>true</server>
   <externalConnection>true</externalConnection>

@@ -53,5 +53,8 @@
   <commonModules>CommonModule.НВ_СтроковыеФункцииКлиентСервер</commonModules>
   <commonModules>CommonModule.НВ_ПреобразовательКлиентСервер</commonModules>
   <commonModules>CommonModule.НВ_ОбщегоНазначенияПовтИсп</commonModules>
+  <commonModules>CommonModule.НВ_ДлительныеОперации</commonModules>
+  <commonModules>CommonModule.НВ_СтандартныеПодсистемыПовтИсп</commonModules>
   <dataProcessors>DataProcessor.НВ_Навигатор</dataProcessors>
+  <dataProcessors>DataProcessor.НВ_ЖурналРегистрации</dataProcessors>
 </mdclass:Configuration>

@@ -7,7 +7,7 @@
   <name>НВ_Навигатор</name>
   <synonym>
     <key>ru</key>
-    <value>Навигатор</value>
+    <value>НВ:Навигатор</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <defaultForm>DataProcessor.НВ_Навигатор.Form.ОсновнаяФорма</defaultForm>

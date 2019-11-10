@@ -3,7 +3,7 @@
   <name>НВ_ПреобразовательКлиентСервер</name>
   <synonym>
     <key>ru</key>
-    <value>(НВ) Преобразователь имен, клиент сервер</value>
+    <value>НВ:Преобразователь имен, клиент сервер</value>
   </synonym>
   <clientManagedApplication>true</clientManagedApplication>
   <server>true</server>

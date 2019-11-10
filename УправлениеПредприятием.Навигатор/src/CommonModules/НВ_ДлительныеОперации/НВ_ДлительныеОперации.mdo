@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="76d2f29b-57f9-47ba-98d2-93a715585ac0">
+  <name>НВ_ДлительныеОперации</name>
+  <synonym>
+    <key>ru</key>
+    <value>НВ:Длительные операции</value>
+  </synonym>
+  <server>true</server>
+</mdclass:CommonModule>

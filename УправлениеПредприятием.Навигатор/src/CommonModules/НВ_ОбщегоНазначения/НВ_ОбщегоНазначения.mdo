@@ -3,7 +3,7 @@
   <name>НВ_ОбщегоНазначения</name>
   <synonym>
     <key>ru</key>
-    <value>(НВ) Общего назначения</value>
+    <value>НВ:Общего назначения</value>
   </synonym>
   <server>true</server>
 </mdclass:CommonModule>

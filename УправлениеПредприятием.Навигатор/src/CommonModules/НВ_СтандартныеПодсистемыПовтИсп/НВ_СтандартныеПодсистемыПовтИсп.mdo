@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="aa734a04-fea3-45d7-a8d8-7a01ce9e259d">
+  <name>НВ_СтандартныеПодсистемыПовтИсп</name>
+  <synonym>
+    <key>ru</key>
+    <value>НВ: Стандартные подсистемы, повторное использование</value>
+  </synonym>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+  <returnValuesReuse>DuringSession</returnValuesReuse>
+</mdclass:CommonModule>
